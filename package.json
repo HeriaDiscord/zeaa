@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zealcordNation/music-bot-example.git"
+    "url": "git",
   },
   "keywords": [
     "JavaScript",
@@ -18,12 +18,12 @@
     "Discord",
     "Zealcord"
   ],
-  "author": "Zealcord",
+  "author": "Heria",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zealcordNation/music-bot-example/issues"
+    "url":
   },
-  "homepage": "https://github.com/zealcordNation/music-bot-example#readme",
+  "homepage": ,
   "dependencies": {
     "discord.js": "^11.5.1",
     "express": "^4.17.1",
